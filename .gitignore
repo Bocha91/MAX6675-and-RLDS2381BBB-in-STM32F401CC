@@ -1,2 +1,4 @@
 /EWARM/settings
 /EWARM/ConfigMAX6675
+/EWARM/*.dep
+/EWARM/*.ewt

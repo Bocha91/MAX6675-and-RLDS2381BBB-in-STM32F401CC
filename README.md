@@ -19,18 +19,17 @@ aliexpres:
 
 ![pin STM32F401CC](https://github.com/Bocha91/MAX6675-and-RLDS2381BBB-in-STM32F401CC/raw/main/image/photo_2023-01-29_20-08-18.jpg)
 
-## разпиновка
-
+## Распиновка
 
 ### RLD2381BBB
-/*
+```
 1 - B2
 2 - B1          11 - B4
 3 - B12         10 - B5
 4 - B13          9 - B6
 5 - B14          8 - B7
 6 - B0           7 - B8
-*/ 
+```
 
 ### STM32F401CC
 
